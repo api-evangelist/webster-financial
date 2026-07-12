@@ -14,12 +14,16 @@ created: '2026-05-04'
 modified: '2026-05-04'
 specificationVersion: '0.19'
 common:
+  - type: DomainSecurity
+    url: security/webster-financial-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/webster-bank
   - type: Website
     url: https://www.websterbank.com
   - type: InvestorRelations
     url: https://investors.websterbank.com
+  - url: https://www.websterbank.com/feed/
+    type: Blog
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
