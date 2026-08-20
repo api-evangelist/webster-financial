@@ -15,6 +15,12 @@ accessModel:
   method: derived
 image: https://avatars.githubusercontent.com/u/api-evangelist
 tags:
+  - Financial-Services
+  - Banking
+  - Commercial Banking
+  - Consumer Banking
+  - Healthcare Finance
+tags_raw:
   - Financial Services
   - Banking
   - Commercial Banking
